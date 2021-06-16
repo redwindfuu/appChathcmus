@@ -1,0 +1,17 @@
+
+1. Màn hình Server với đủ thông tin: config, đóng / mở server,
+danh sách client đang kết nối. 2 điểm
+2. Màn hình Client đủ thông tin về các chức năng cơ bản của chương trình: danh sách server để kết nối / thông tin của server nếu
+đang kết nối, danh sách các user đang online. 2 điểm
+3. Cho phép quản lý danh sách server cho client như: thêm, xóa, sửa và ghi nhớ dạng file config. 0 điểm
+4. Đăng ký chat user (đăng ký từ ứng dụng client). 1 điểm
+5. Khung chat với đầy đủ thông tin người chat, nội dung chat. 0,5
+6. Cho phép lựa chọn ENTER là gửi nội dung chat hoặc xuống dòng (cho phép nội dung chat nhiều dòng). 1 điểm
+7. Cho phép sử dụng emoji đơn giản (tối thiểu 5 emoji). 1 điểm
+8. Cho phép chat với nhiều user (chia nhiều tab). 1 điểm
+9. Cho phép gởi file trong khi chat. 0,5 điểm
+// link kham khảo https://viettuts.vn/java-swing/truyen-file-bang-giao-thuc-tcpip
+10. Cho phép tạo group chat và thực hiện chat nhóm. 1 điểm
+11.  Cho phép sử dụng voice chat. 0 điểm
+12. Cho phép sử dụng webcam. 0 điểm
+Tổng điểm 10
